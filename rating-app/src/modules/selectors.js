@@ -1,0 +1,1 @@
+export const getMovieList = state => state.get('movieList');
